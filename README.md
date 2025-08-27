@@ -36,6 +36,21 @@ Over four weeks (May 15, 2025 – June 15, 2025), I built:
 > All official PDFs are inside **/docs**. Week-wise breakdown lives in **/weeks**.
 
 ---
+##📌 Internship Summary :
+
+I completed my Summer Internship 2025 at KnC Future Tech, where I worked on cloud computing, serverless development, and AI-powered solutions using AWS. The internship spanned four weeks (May 15 – June 15, 2025) and focused on applying theoretical knowledge to real-world projects.
+
+Week 1: Explored core AWS services — S3, EC2, Lambda, IAM, CloudWatch, and Transfer Family.
+
+Week 2: Designed a Retrieval-Augmented Generation (RAG) chatbot using Amazon Bedrock (Llama 3), Titan Embeddings, OpenSearch Serverless, and S3.
+
+Week 3: Built and deployed BhashaBridge, a serverless document translation pipeline using S3, Lambda, Transfer Family, IAM, and CloudWatch.
+
+Week 4: Expanded my knowledge by exploring multi-cloud platforms (Azure, GCP, Oracle) and successfully earned the AWS Cloud Practitioner certification.
+
+This internship helped me strengthen my hands-on expertise in cloud computing, enhanced my problem-solving skills, and gave me exposure to multi-cloud environments and industry-standard certifications.
+
+---
 
 ## 🚀 Projects
 - **[RAG Chatbot (AWS Bedrock + OpenSearch)](https://github.com/Dhruvv025/RAG-Chatbot-in-Bedrock)** — Retrieval-Augmented Generation chatbot that gives context-aware answers from custom documents.
