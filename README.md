@@ -56,13 +56,6 @@ Amazon S3, AWS Lambda, Amazon Bedrock (Llama 3), Amazon Titan Embeddings, Amazon
 
 ---
 
-## 📜 How to Use This Repo
-- Browse **/weeks** for weekly progress and highlights.
-- Open **/docs** to view the formal internship documents.
-- Visit project repositories for source code and deployment details.
-
----
-
 ## ✅ Certification
 - **AWS Cloud Practitioner** — View badge on Credly: [https://www.credly.com/badges/142777fe-cf81-4d66-bd47-13e1af3fdfcc/public_url](https://www.credly.com/badges/142777fe-cf81-4d66-bd47-13e1af3fdfcc/public_url)
 
